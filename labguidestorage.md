@@ -1,6 +1,6 @@
-# Introduction to Azure Portal
+# Excercise 1: Introduction to Azure Portal
 
-**Excercise 1: Sign Up for pre configured environment**<br/>
+**Excercise 1.1: Sign Up for pre configured environment**<br/>
 
 In this exercise, you will create a source environment.
 
@@ -18,7 +18,7 @@ In this exercise, you will create a source environment.
 
 Please ensure to take the values assigned to your deployment.<br/>
 
-**Excercise 2: Log into your Azure Portal and Verify access to the Subscription**<br/>
+**Excercise 1:2: Log into your Azure Portal and Verify access to the Subscription**<br/>
 
 In this exercise, you will log into the Azure Portal using your Azure credentials and you will verify the type of role you are assigned
 
@@ -36,7 +36,7 @@ In this exercise, you will log into the Azure Portal using your Azure credential
 
 <img src="images/str10.jpg"/><br/>
 
-# Exercise 1 - Create a storage account using Azure portal
+# Exercise 2 - Create a storage account using Azure portal
 Use the Azure portal to create a storage account
 
 
@@ -83,7 +83,7 @@ Click **Create** to provision the storage account.
 
 It will take a few minutes to deploy the account.
 
-# Exercise 2 - Create a Container and Upload file using Azure portal
+# Exercise 3 - Create a Container and Upload file using Azure portal
 
 To create a container in the Azure portal, follow these steps:
 
@@ -96,7 +96,7 @@ To create a container in the Azure portal, follow these steps:
 
 <img src="images/str5.jpg"/><br/>
 
-## Upload a block blob
+# Excercise 3: Upload a block blob
 
 Block blobs consist of blocks of data assembled to make a blob. Most scenarios using Blob storage deploy block blobs. Block blobs are ideal for storing text and binary data in the cloud, like files, images, and videos. This quickstart shows how to work with block blobs.
 
@@ -113,7 +113,7 @@ To upload a block blob to your new container in the Azure portal, follow these s
 6. Select the **Upload** button to commit the upload.
 7. Upload as many blobs as you like in this way. You'll see that the new blobs are now listed within the container.
 
-## Download a block blob
+## Download a block blob file
 
 You can download a block blob to display in the browser or save to your local file system. To download a block blob, follow these steps:
 
