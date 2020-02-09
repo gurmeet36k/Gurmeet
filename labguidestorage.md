@@ -4,7 +4,7 @@
 
 In this exercise, you will create a source environment.
 
-1.**Navigate** to bitly link which was provided by instructor and register by providing all required information and **clicking** on **SUBMIT button**.<br/>
+1.**Navigate** to bitly link which was provided by instructor and register by providing all required information and **click** on **SUBMIT button**.<br/>
 
   <img src="images/str11.jpg"/><br/>
  
