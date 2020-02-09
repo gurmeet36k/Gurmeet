@@ -5,7 +5,10 @@
 In this exercise, you will create a source environment.
 
 1.**Navigate** to bitly link which was provided by instructor and register by providing all required information and **clicking** on **SUBMIT button**.<br/>
+  <img src="images/str11.jpg"/><br/
+ 
 2.Once registration is accepted, you will be automatically redirected to the lab activation page. Now, it is advised to save a copy of the URL on the browser, which has the activation id. **Click** on the Launch **Lab button**.<br/>
+
 3.You will see the environment details soon below.<br/>
 
 Please ensure to take the values assigned to your deployment.<br/>
