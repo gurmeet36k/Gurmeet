@@ -1,8 +1,8 @@
-# Excercise 1: Introduction to Azure Portal
+# Excercise 1: Introduction to Azure Portal<br/>
 
 **Excercise 1.1: Sign Up for pre configured environment**<br/>
 
-In this exercise, you will create a source environment.
+In this exercise, you will create a source environment.<br/>
 
 1.**Navigate** to bitly link which was provided by instructor and register by providing all required information and **click** on **SUBMIT button**.<br/>
 
@@ -24,11 +24,11 @@ In this exercise, you will log into the Azure Portal using your Azure credential
 
 1.**Navigate** to https://portal.azure.com and login (from the previous step).<br/>
 
-2.**Enter** the Username which was displayed in the previous window and **click** on **Next**.
+2.**Enter** the Username which was displayed in the previous window and **click** on **Next**.<br/>
 
 <img src="images/str8.jpg"/><br/>
 
-3.In the Stay signed in? pop-up window, click No. Enter the Password and click on **Sign in**.
+3.In the Stay signed in? pop-up window, click No. Enter the Password and click on **Sign in**.<br/>
 
 <img src="images/str9.jpg"/><br/>
 
@@ -36,12 +36,13 @@ In this exercise, you will log into the Azure Portal using your Azure credential
 
 <img src="images/str10.jpg"/><br/>
 
-# Exercise 2 - Create a storage account using Azure portal
-Use the Azure portal to create a storage account
+# Exercise 2 - Create a storage account using Azure portal<br/>
+
+Use the Azure portal to create a storage account<br/>
 
 
 - **Login** to [Azure portal](https://portal.azure.com) using the credentials provided in the environment details page. You will be having access to one resource group.</br>
-- On the Azure portal menu or from the **Home** page, select **Create a resource**.
+- On the Azure portal menu or from the **Home** page, select **Create a resource**.<br/>
 - Select **Storage account** under **Azure Marketplace**. <br/>
  
   <img src="images/str1.png"/><br/>
